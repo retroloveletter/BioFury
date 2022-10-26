@@ -1,2 +1,2 @@
 # BioFury
-Homebrew Zombie FPS Project
+3DO Homebrew Zombie FPS Project
