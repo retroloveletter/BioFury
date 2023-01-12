@@ -1,4 +1,4 @@
 # BioFury
-3DO Homebrew Zombie FPS Project. Development is still early, only NTSC has been tested. 
+3DO Homebrew Zombie FPS game. Only NTSC is supported at this time.
 
 Progress videos: https://www.youtube.com/@retroloveletter
